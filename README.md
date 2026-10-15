@@ -1,3 +1,14 @@
+<!-- CABEÇALHO -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:0969DA,100:60A5FA&height=180&section=header&text=Let%C3%ADcia%20Campelo&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Desenvolvimento%20%7C%20Tecnologia%20%7C%20IA&descAlignY=58&descSize=16" width="100%" />
+
+
+
+
+
+</div>
 Tecnologias e ferramentas
 
 <div align="center">
