@@ -24,7 +24,7 @@ Tecnologias e ferramentas
 
 Projetos em destaque
 
-<table>
+<table align = "center">
 <tr>
 <td width="100%">
 
